@@ -1,0 +1,202 @@
+{
+   "checksum": "004cf2032b3a185dee5b0ee0b7032659",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13284569642415261",
+            "date_last_used": "13363946417789204",
+            "guid": "85d66e7b-358c-43e5-912e-6e911828803d",
+            "id": "10",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13330613481259444",
+            "date_last_used": "13338699711631494",
+            "guid": "7225bd1e-e3e4-472e-99ab-1461d9b42f61",
+            "id": "11",
+            "name": "android - How to get complete address from latitude and longitude …",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/ck/a?!&&p=65329f094ce111e5JmltdHM9MTY4NjA5NjAwMCZpZ3VpZD0zM2QzOTM0NS1iMjUyLTYzZjgtMzg3NS04MWJlYjNmNDYyNWImaW5zaWQ9NTQzNg&ptn=3&hsh=3&fclid=33d39345-b252-63f8-3875-81beb3f4625b&psq=get+current+location+latitude+and+longitude+android&u=a1aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvOTQwOTE5NS9ob3ctdG8tZ2V0LWNvbXBsZXRlLWFkZHJlc3MtZnJvbS1sYXRpdHVkZS1hbmQtbG9uZ2l0dWRl&ntb=1"
+         }, {
+            "date_added": "13333471253530527",
+            "date_last_used": "13349814740546025",
+            "guid": "a4225a8d-c9fa-4f6b-8461-1e9855c64914",
+            "id": "12",
+            "name": "dzzzszzdzd",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.retrogames.cz/play_1412-NES.php"
+         }, {
+            "date_added": "13354696030748052",
+            "date_last_used": "13355324587635298",
+            "guid": "9c82fc9d-959a-48c5-8fa4-41c7a911e4db",
+            "id": "13",
+            "name": "android - How to make a round button? - Stack Overflow",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/ck/a?!&&p=ab7ca436ded445d2JmltdHM9MTcxMDExNTIwMCZpZ3VpZD0wY2MzNzRjZS1kY2ZkLTZmOWYtMTBhNS02NzdmZGQyODZlOGEmaW5zaWQ9NTIyOQ&ptn=3&ver=2&hsh=3&fclid=0cc374ce-dcfd-6f9f-10a5-677fdd286e8a&psq=round+android+button&u=a1aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTAyNjY1OTUvaG93LXRvLW1ha2UtYS1yb3VuZC1idXR0b24&ntb=1"
+         }, {
+            "date_added": "0",
+            "date_last_used": "13346088568432519",
+            "guid": "4deefcab-1cf3-4c87-9ec9-5ca2cb22c8a8",
+            "id": "14",
+            "name": "minesweeper",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/fbx?fbx=minesweeper"
+         }, {
+            "date_added": "13354693833395041",
+            "date_last_used": "0",
+            "guid": "6e241778-0a6b-4dcf-a734-0f86232a9718",
+            "id": "15",
+            "name": "How to make the corners of a button round?",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/ck/a?!&&p=4db4043ab3f474c3JmltdHM9MTcxMDExNTIwMCZpZ3VpZD0wY2MzNzRjZS1kY2ZkLTZmOWYtMTBhNS02NzdmZGQyODZlOGEmaW5zaWQ9NTQ5Nw&ptn=3&ver=2&hsh=3&fclid=0cc374ce-dcfd-6f9f-10a5-677fdd286e8a&psq=android+button+radius&u=a1aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNjA1NDU2Mi9ob3ctdG8tbWFrZS10aGUtY29ybmVycy1vZi1hLWJ1dHRvbi1yb3VuZA&ntb=1"
+         }, {
+            "date_added": "13342720952899299",
+            "date_last_used": "0",
+            "guid": "bb6dd2b7-4a0e-4b73-aa8f-3c7a89dc38d2",
+            "id": "16",
+            "name": "How to implement a Button on an Android Widget - Stack …",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/ck/a?!&&p=f05692ae953e5f7fJmltdHM9MTY5ODE5MjAwMCZpZ3VpZD0wY2MzNzRjZS1kY2ZkLTZmOWYtMTBhNS02NzdmZGQyODZlOGEmaW5zaWQ9NTI3MQ&ptn=3&ver=2&hsh=3&fclid=0cc374ce-dcfd-6f9f-10a5-677fdd286e8a&psq=android+studio+widget+button&u=a1aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMjA4Mjk5OC9ob3ctdG8taW1wbGVtZW50LWEtYnV0dG9uLW9uLWFuLWFuZHJvaWQtd2lkZ2V0&ntb=1"
+         }, {
+            "date_added": "13363527655600273",
+            "date_last_used": "0",
+            "guid": "aee49d0c-7295-4c95-80cc-60248b0ceb54",
+            "id": "17",
+            "name": "job portal ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.naukri.com/cognizant-jobs?k=cognizant"
+         }, {
+            "date_added": "13347639129932056",
+            "date_last_used": "13349814828487690",
+            "guid": "c35b9304-469d-442e-9854-02f0afbf5431",
+            "id": "18",
+            "name": "Login",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://innovateindia.mygov.in/login/?action=wordpress_social_authenticate&mode=login&provider=MyGov&redirect_to=https%3A%2F%2Finnovateindia.mygov.in%2Fviksitbharat2047%2F%3F"
+         }, {
+            "date_added": "13361641000884431",
+            "date_last_used": "13362157932922470",
+            "guid": "8a89fdd8-7018-4fe8-b99a-722bc2ef54c3",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Hostinger Webmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mail.hostinger.com/"
+         }, {
+            "date_added": "13363952970719697",
+            "date_last_used": "0",
+            "guid": "7acb5aed-7ba8-4b95-8dfd-357f3413e323",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Chat - Flutter Awesome",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://flutterawesome.com/tag/chat/"
+         }, {
+            "date_added": "13364458884423837",
+            "date_last_used": "0",
+            "guid": "474f93cd-80b0-4013-b875-f6f463b7f36c",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ASCII Tree Generator",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ascii-tree-generator.com/"
+         } ],
+         "date_added": "13364480337992272",
+         "date_last_used": "0",
+         "date_modified": "13364458884423837",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13339177376176075",
+            "date_last_used": "0",
+            "date_modified": "13339177376176075",
+            "guid": "26f7a003-e031-42a0-a185-24c9177b14ce",
+            "id": "7",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13340130564337788",
+               "date_last_used": "0",
+               "guid": "2ea27ead-658c-4e89-8798-24a1a53b07fc",
+               "id": "9",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "java pointers - Search",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.bing.com/search?pglt=129&q=java+pointers&cvid=04beafc931634e7880faf01f71f829e9&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIECAEQADIECAIQADIECAMQADIECAQQADIECAUQADIECAYQADIECAcQADIECAgQANIBCDIxOTRqMGoxqAIAsAIA&FORM=ANNTA1&PC=ASTS"
+            } ],
+            "date_added": "13339177376176280",
+            "date_last_used": "0",
+            "date_modified": "13340130564337788",
+            "guid": "ce0aa805-a152-4427-a9bd-7c9f3f6358dd",
+            "id": "8",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13364480337992275",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13364480337992277",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCHOzHHeQAQAAEgAqGDduVjRSR3RJYmtWMmhaQXRLcXBwSGc9PUgDoAYHEqkBCBUSpAEKHFcwSEJieThBSXZHVnN6bW1sNkhLM3NBRDVWQT0SJDQ3NGY5M2NkLTgwYjAtNDAxMy1iODc1LWY2ZjQ2M2I3ZjM2YxgAIAAoADDy5vK4hzI4m+nyuIcyQJvp8riHMkocdWF5cnNGbHU0MUlyZGpEcC84OGhxbE9udWxVPVogIh7/7EJIRmJ6U0t3c0QvU0E0ejBIWGxRMGluWFREYz1lTf0MdxKpAQgUEqQBChxpS3BOYmlzMThOei9YZmlMWFNBMzU0S0psZ1k9EiQ3YWNiNWFlZC03YmE4LTRiOTUtOGRmZC0zNTdmMzQxM2UzMjMYACAAKAAwupTUx4UyOLaX1MeFMkC2l9THhTJKHHpXVUhKeEpIR1NVYlZUN1JYMjN2UVR3VkVtMD1aICIe/9gzV1hCMVp1K2swTjN2ZU1WdU5adWVXV0Y5ekk9ZTnGtMMSqAEIERKjAQocdjQwaDJ2eFk5QkpkSDVqc1huZW9SS1lQd1NnPRIkYWVlNDlkMGMtNzI5NS00Yzk1LTgwY2MtNjAyNDhiMGNlYjU0GAAgACgAMKSe7fyDMjjCie38gzJAwont/IMyShxsY2ZrVitPRGRDbkVab0NRTjhVVm5RZTBPTmc9Wh8iHf5PQkZIaTA1bFZhU05JbllVL0sydGxNNEI5VEE9ZQPKYL8SqAEIEBKjAQocd3FRSG52bmQ5U1crbUw4ektPZXoyNEp3azRjPRIkYmI2ZGQyYjctNGEwZS00YjczLWFhOGYtM2M3YTg5ZGMzOGQyGAAgACgAMMrmn4HDMTil6Li7tjFApei4u7YxShxpeXlTaTlkaGFnbyt0b3B1VHZMekdrSWpDaHc9Wh8iHf41N2RWWGhwYy8wL3ZVbjdvNjgvTUo5aW96VGM9ZQ/MNBQSqAEICxKjAQocYXFNUzVWeWFlWlB4OUdsNDRCMmJlZnFPUmw0PRIkNzIyNWJkMWUtZTNlNC00NzJlLTk5YWItMTQ2MWQ5YjQyZjYxGAAgACgAML6Q26GpMTiEppOuiTFAhKaTrokxShx0T2xSWGlyU09ZcmlZSEh1andzTTQ3MStpZms9Wh8iHe40VzJtaTY0V2hmeEhNWlhVUHFtT0VLcnEvTFE9ZQ/MNBQSqAEIEhKjAQocOEpndEhZTmIzWE5WQk5Wa2dCWUpjM09WNVZZPRIkYzM1YjkzMDQtNDY5ZC00NDJlLTk4NTQtMDJmMGFmYmY1NDMxGAAgACgAMNfKiPLQMTjmtM7kyDFA5rTO5MgxShxGd2dPdjh5R0I0QUwzV0xnU3NUWnd5czRVblU9Wh8iHf9jLzJJenM0bGhub29WOG9oYWNpU3VOZk1adzA9ZU7pxQESqAEIDBKjAQocYVQyRkxXRkM3eEpDVzRWZ3hvZTVRYnNQUm9RPRIkYTQyMjVhOGQtYzlmYS00ZjZiLTg0NjEtMWU5ODU1YzY0OTE0GAAgACgAMKy4g/LQMTjs8OuAlDFA7PDrgJQxShxVYTZxbEY5WVdxZlZsUmhLc3JHK0NGbnowcGc9Wh8iHftzV0VPdTRucjhQdlp5VjN6OWdnU0hnSUJtckE9Zc60nFASpwEIChKiAQocS3dmS0xnam96ZWZmd3lPV1NPUDdKYS94c21NPRIkODVkNjZlN2ItMzU4Yy00M2U1LTkxMmUtNmU5MTE4Mjg4MDNkGAAgACgAMPCzxMSFMjjX0K3J+jBA19CtyfowShxHV2VIeXVZOE9ZNGZTZUxYYTFVbGk3RVI2SU09Wh4iHFJGU1Jqc0tJV0IxMDdIUXhLTUpJTXR2aDVyQT1lOPk5MxKnAQgJEqIBChx0aUpuUE9TYUlhTVc5U1MyQ0JlUVlGYVplZUk9EiQyZWEyN2VhZC02NThjLTRlODktODc5OC0yNGExYTUzYjA3ZmMYACAAKAAwmYmi6KwxOI37n+isMUCN+5/orDFKHFFZQjZLRTlZWjl4Sno4SlBWOVZOczYyb0FZTT1aHiIcYzg2ejhlZW5NL1ZOTm1raTRxeFo0bWxOSVAwPWV7Hj2mEqgBCA0SowEKHC9VYTFjbXRhb1BZQnB5VzV1dkczRWpUcG9DVT0SJDljODJmYzlkLTk1OWEtNDhjNS04ZmE0LTQxYzdhOTExZTRkYhgAIAAoADCys6m15TE4/77NieMxQP++zYnjMUocM3REcEVWb2hmZVdhRjAwSmNJNy9DZTJTd3BVPVofIh38ZGxzVjZtenp3N05yR0prV0FqTHZLWDBvZmswPWUPzDQUEqkBCBMSpAEKHHpYY21wUHNNOGZIUVFkNm1uUS9HN3RWSmxLYz0SJDhhODlmZGQ4LTcwMTgtNGZlOC1iOTlhLTcyMmJjMmVmNTRjMxgAIAAoADCo89vv/jE4zOuc+fwxQMzrnPn8MUocVko0Zi8vWlNUVjBYSFRsbUdkd1VMMlRHcmxZPVogIh7/sUgrRmMrWUsyb0w5QkRJamxkYjJzcmU1S2QyYz1lUUEAjRKnAQgHEqIBChwwZFFzV0RYZXdKRDNOdHJnQmYyMWpIYUJEbTg9EiQyNmY3YTAwMy1lMDMxLTQyYTAtYTE4NS0yNGM5MTc3YjE0Y2UYACAAKAAwlendoakxOKbs3aGpMUCm7N2hqTFKHExHcUYvOGtGaTd2VXUxaVkxVGhBMEJBZjdSbz1aHiIcS2JlWTl2QVlaNVUrWnZSRm1FU3M5blNPWWl3PWUAAAAAEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDYzODY4ZDU5LTE5Y2QtNWM1NS04ZWUwLTcwNzQ3MWYxZjUxNxgAIAAoADCRo63J+jA4l6ityfowQJeorcn6MEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkNTUwMTE3NDctMGJiNy01YTcxLTk0ODMtOTY5M2VjNjI3OTVkGAAgACgAMJCjrcn6MDiCqK3J+jBAgqityfowShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKoAQgOEqMBChwvOUFsbEdJRVg3SUJweFI4djM4ckxGM0tvRlk9EiQ0ZGVlZmNhYi0xY2YzLTRjODctOWVjOS01Y2EyY2IyMmM4YTgYACAAKAAwyeafgcMxOPDr3aGpMUDw692hqTFKHFB5eVRXam1EYUVPR3VhUlFQaEVUWnhaQTBLVT1aHyId/TRoWmRBRFJhTmtjc1FSOUhYVVFXakpIZFRLbz1lEDD/5BKoAQgIEqMBChwwT21PeWRZVDFjaFEzQlVrZzdPekl4Ylc3SmM9EiRjZTBhYTgwNS1hMTUyLTQ0MjctYTliZC03YzlmM2Y2MzU4ZGQYACAAKAAwlOndoakxOIvs3aGpMUCL7N2hqTFKHFI2RmFHTFpvcUx6YVdEejlESmZ2K2l2Y2hidz1aHyIdpUF4bTllaEk2OGNsbjJaQTdhL0tacmxkTnFSbz1lAAAAABKoAQgPEqMBChxJWVlUNGwvVVZBaGVRUUxiY0ZYdUlpSHlTeTg9EiQ2ZTI0MTc3OC0wYTZiLTRkY2YtYTczNC0wZjg2MjMyYTk3MTgYACAAKAAwyq3HiOMxOIaxx4jjMUCGsceI4zFKHHQrVC9xWldXMUZVbnR3bDFzN3NFdDI3cjhiWT1aHyId/jQrNTBBaU1UdmYzWXRBTzVNaDh3MzFZUld5dz1lAAAAABKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQxZjJlYTJjYy0wNjk2LTU5ZGQtYjAxNi1jZmNkNjNjYzA4OGQYACAAKAAwlqOtyfowOJmprcn6MECZqa3J+jBKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
